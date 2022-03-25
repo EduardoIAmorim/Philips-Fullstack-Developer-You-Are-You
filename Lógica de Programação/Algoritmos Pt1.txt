@@ -1,0 +1,31 @@
+*Algoritmos
+
+	Sequência de passos para resolver um problema
+
+	Exemplo:
+	Início-dia
+	Acordei
+	Levantei da cama
+	Troquei de roupa
+	Escovei os dentes
+	Fui para o trabalho
+	Fim-dia
+
+*Pseudocódigo
+	É uma forma genérica de escrever uma algoritmo, utilizando uma linguagem simples.
+
+*Fluxograma 
+	É um tipo de diagrama, e pode ser entendido como uma representação esquemática de um processo. 
+
+*Constante: O valor é imutável. Exemplio: raio = 3,14
+
+*Variável: Mutável. Exemplo: raio + (numero) = x
+
+
+*Tomadas de decisão e expressões aritméticas
+
+São expressões que utilizam operadores aritméticos
+
+Expressões literais: Nome = José
+
+Expressões Relacionais: Verdadeiro/Falso

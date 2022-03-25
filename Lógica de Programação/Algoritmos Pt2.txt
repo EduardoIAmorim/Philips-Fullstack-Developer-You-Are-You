@@ -1,0 +1,15 @@
+*Concatenação
+
+	Designar a operação de unir o conteúdo de duas string.
+	*string é uma sequência de características.
+
+*Estrutura de repetição
+	É uma estrutura que permite executar mais de uma vez o mesmo comando
+	ou conjunto de comandos, de acordo com uma condição ou contador.
+
+*Pseudocódigos - Portugol
+	Desvio condicional "se" é uma palavra reservada, deve estar entre parenteses.
+	(se), (caso)...
+
+*Matrizes e Vetores
+	Matriz é uma coleção de variáveis de mesmo tipo, "sequência".			

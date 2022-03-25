@@ -1,0 +1,33 @@
+O que é Git
+
+É um sistema de controle e versionamento de software e arquivos.
+
+Utiliza como criptografia o SHA1
+
+
+*Comandos
+
+Git init = inicializa (cria um repositório Git).
+Git clone = Clona o repositório do GitHub para a máquina.
+cd .. = Volta para o repositório inicial.
+cd (nome da pasta) = Acessa a mesma.
+list = lista os arquivos dentro do repositório.
+git status = mostra se existe algum arquivo ou repositório que está untracked.
+git add . = Adiciona todos os arquivos para que possam ser lançados no Github (Criados e/ou atualizados).
+git commit -m = envia os arquivos/repositórios adicionados localmente para o github.
+
+
+
+
+						|-Ainda não sofreu alteração		
+	Untracked----------------------------unmodified-------------------------modified-------------staged
+	    |					|			 	  |		       |
+	    |-----Adiciona arquivo----------->>-|---------------------------------|----------------->>-|
+	    |					|				  |		       |
+Não tem ciência que existe			|---------Edita arquivo-------->>-|		       |
+					 	|						       |
+						|-------------------------------<<<-----Commit---------|
+
+*Unmodified
+Ainda não sofreu alteração
+Sha1 - original - removendo volta para untracked.

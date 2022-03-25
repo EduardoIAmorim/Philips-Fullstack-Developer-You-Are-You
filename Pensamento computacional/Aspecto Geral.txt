@@ -1,0 +1,21 @@
+O que precisa ser feito |
+			| -----	Instruções
+Ordem de execução	|	
+
+*Análise
+*Algorítmo
+*Codificação
+
+Conpreenção do problema - Definição dados de entrada - Definir processamento - Definir dados de saída
+Utilizar um método de construção - Teste e diagnóstico.
+
+*Contrução de Algorítmo
+
+*Narrativa
+	Utiliza linguagem natural
+
+*Fluxograma
+	Utiliza símbolos pré-definidos
+
+*Pseudocódigo
+	Passos a serem seguidos (Portugol)
